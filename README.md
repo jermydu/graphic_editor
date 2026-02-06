@@ -1,4 +1,4 @@
-<<<<<<< .merge_file_L4maxF
+
 # PhotoEditor - Qt 2D 图像编辑器
 
 基于 Qt 6 开发的桌面版 2D 图像编辑器，功能类似美图秀秀，适用于 Windows 平台。
@@ -108,8 +108,3 @@ cursor_graphic_editor/
 | Ctrl+滚轮 | 缩放 |
 
 ## 许可证
-
-MIT License
-=======
-
->>>>>>> .merge_file_x7Qzjv
