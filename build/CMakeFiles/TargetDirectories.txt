@@ -1,0 +1,5 @@
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/CMakeFiles/PhotoEditor.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/CMakeFiles/edit_cache.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/CMakeFiles/rebuild_cache.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/CMakeFiles/PhotoEditor_autogen_timestamp_deps.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/CMakeFiles/PhotoEditor_autogen.dir

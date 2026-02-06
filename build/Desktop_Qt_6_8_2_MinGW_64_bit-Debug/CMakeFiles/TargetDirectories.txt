@@ -1,0 +1,5 @@
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/PhotoEditor.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/PhotoEditor_autogen_timestamp_deps.dir
+C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/PhotoEditor_autogen.dir

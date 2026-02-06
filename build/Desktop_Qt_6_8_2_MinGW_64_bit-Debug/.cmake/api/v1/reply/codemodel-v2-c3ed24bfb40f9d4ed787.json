@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PhotoEditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor-Debug-e25cdd7c6f1e1b4ace0f.json",
+					"name" : "PhotoEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_autogen-Debug-8c9f3b1676535571d847.json",
+					"name" : "PhotoEditor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_autogen_timestamp_deps-Debug-33dff76bd9d4026be829.json",
+					"name" : "PhotoEditor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,22 @@
+# ninja log v7
+22	4317	7920500455278194	PhotoEditor_autogen/timestamp	b54a27a034eb60e7
+22	4317	7920500455278194	PhotoEditor_autogen/mocs_compilation.cpp	b54a27a034eb60e7
+22	4317	7920500455278194	C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/PhotoEditor_autogen/timestamp	b54a27a034eb60e7
+22	4317	7920500455278194	C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/PhotoEditor_autogen/mocs_compilation.cpp	b54a27a034eb60e7
+4369	15545	7920500459525231	CMakeFiles/PhotoEditor.dir/src/AdjustmentPanel.cpp.obj	ebac49609989d1e5
+4384	16589	7920500459679113	CMakeFiles/PhotoEditor.dir/src/ToolOptionsPanel.cpp.obj	6478733138ac0d10
+4376	16765	7920500459596753	CMakeFiles/PhotoEditor.dir/src/FilterPanel.cpp.obj	ed8c3fbaa8627aaa
+4346	16799	7920500459295039	CMakeFiles/PhotoEditor.dir/src/main.cpp.obj	a53bcdf6604a0b8b
+4337	19037	7920500459201340	CMakeFiles/PhotoEditor.dir/PhotoEditor_autogen/mocs_compilation.cpp.obj	16b14da58d865303
+4353	20022	7920500459358863	CMakeFiles/PhotoEditor.dir/src/MainWindow.cpp.obj	f616172d8233e8a1
+70	447	7920501935181219	PhotoEditor_autogen/timestamp	b54a27a034eb60e7
+70	447	7920501935181219	PhotoEditor_autogen/mocs_compilation.cpp	b54a27a034eb60e7
+70	447	7920501935181219	C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/PhotoEditor_autogen/timestamp	b54a27a034eb60e7
+70	447	7920501935181219	C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/PhotoEditor_autogen/mocs_compilation.cpp	b54a27a034eb60e7
+455	4102	7920501939030722	CMakeFiles/PhotoEditor.dir/src/ImageProcessor.cpp.obj	5cc586763394e823
+64	500	7920502328466784	PhotoEditor_autogen/timestamp	b54a27a034eb60e7
+64	500	7920502328466784	PhotoEditor_autogen/mocs_compilation.cpp	b54a27a034eb60e7
+64	500	7920502328466784	C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/PhotoEditor_autogen/timestamp	b54a27a034eb60e7
+64	500	7920502328466784	C:/Users/dujin/Desktop/cursordemo/cursor_graphic_editor/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/PhotoEditor_autogen/mocs_compilation.cpp	b54a27a034eb60e7
+502	7426	7920502332841563	CMakeFiles/PhotoEditor.dir/src/ImageCanvas.cpp.obj	e6f3e18c0abfaa4e
+7427	8999	7920502402088735	PhotoEditor.exe	67c114d007a81e93
